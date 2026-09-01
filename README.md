@@ -4,7 +4,7 @@
 
 </div>
 
-# ðŸ‘‹ Hi, I'm Maya Liu!
+# ðŸ‘‹ Hi, I'm Lua barros!
 
 > Learning every day, building every weekend
 
@@ -33,7 +33,7 @@
 
 <div align="center">
 
-![Maya Liu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lua Barros&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Lua barros's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lua Barros&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lua Barros&theme=tokyonight&hide_border=true)
 
