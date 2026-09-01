@@ -1,10 +1,10 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=codando%20e%20evoluindo%CB%99%20.%20%EA%92%B7%20%F0%9F%AA%BC%20.%20Bem-vindo;Learning%20%C3%82%C2%B7%20Building%20%C3%82%C2%B7%20Growing;Future%20Software%20Engineer%20%C3%B0%C5%B8%E2%80%99%C2%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=codando%20e%20evoluindo%CB%99%20.%20%EA%92%B7%20%F0%9F%AA%BC%20.%20Bem-vindo;Learning%20%C3%82%C2%B7%20Building%20%C3%82%C2%B7%20Growing;Future%20analista%20de%20dados)](https://git.io/typing-svg)
 
 </div>
 
-# ðŸ‘‹ Hi, I'm Lua barros!
+# ðŸš€ Hey there, I'm Lua barros
 
 > Learning every day, building every weekend
 
@@ -33,11 +33,11 @@
 
 <div align="center">
 
-![Lua barros's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lua Barros&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Lua barros's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lua Barros&show_icons=true&theme=vue-dark&hide_border=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lua Barros&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lua Barros&theme=vue-dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lua Barros&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lua Barros&layout=compact&theme=vue-dark&hide_border=true)
 
 </div>
 
