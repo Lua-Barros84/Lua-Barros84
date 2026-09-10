@@ -6,7 +6,7 @@
 
 # ðŸš€ Hey there, I'm Lua barros
 
-> Learning every day, building every weekend
+> evolving and learning!
 
 ## ðŸŒŸ About Me
 
@@ -21,12 +21,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 
 
-
-**Tools & DevOps:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-3444b2?style=for-the-badge) ![Postman](https://img.shields.io/badge/Postman-51b234?style=for-the-badge)
-
-**Databases:**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ## ðŸ“Š GitHub Stats
 
