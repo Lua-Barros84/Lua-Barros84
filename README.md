@@ -1,17 +1,31 @@
-<!-- Banner animado - Lua Barros -->
-<p align="center">
-  <i>𓆉࿐ 𖦹ׂ🌊༊·˚ ༘ ˚·༊🌊ׂ𖦹 ࿐𓆉</i>
-</p>
+<!-- ############################################ -->
+<!--    MEU PERFIL GITHUB - TEMA AZUL / MAR       -->
+<!-- ############################################ -->
 
+<!-- Banner com nome sendo escrito - SEM emojis que não quer -->
 <p align="center">
-  <a href="https://github.com/Lua-barros84">
-    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=44&weight=bold&duration=2500&pause=800&color=FFFFFF&background=1E90FF&center=true&vCenter=true&width=600&height=100&lines=Lua+Barros;Estudante+de+Python" alt="Lua Barros" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1200&color=00BFFF&center=true&vCenter=true&width=650&lines=%F0%9F%8C%8A+Ol%C3%A1%2C+eu+sou+Lua+Barros!+%F0%9F%8C%8A;%F0%9F%8C%8A+Bem-vindos+ao+meu+GitHub+%F0%9F%8C%8A;%F0%9F%90%8D+Estudante+de+Python+%F0%9F%8C%8A;%F0%9F%8C%8A+Navegando+no+mundo+da+programa%C3%A7%C3%A3o+%F0%9F%8C%8A" alt="Typing SVG" />
   </a>
 </p>
 
+<!-- Ondinha decorativa -->
 <p align="center">
-  <i>𓆉࿐ 𖦹ׂ🌊༊·˚ ༘ ˚·༊🌊ׂ𖦹 ࿐𓆉</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=80&section=footer" width="100%">
 </p>
+
+<!-- Badges azuis -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Aprendendo-00BFFF?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/Foco-Python-1E90FF?style=for-the-badge&logo=python&logoColor=white" alt="Foco">
+  <img src="https://komarev.com/ghpvc/?username=Lua-barros84&color=1E90FF&style=for-the-badge" alt="Visitas">
+  <a href="https://github.com/Lua-barros84">
+    <img src="https://img.shields.io/github/followers/Lua-barros84?style=for-the-badge&color=1E90FF&label=Seguidores&logo=github" alt="Seguidores">
+  </a>
+</p>
+
+
+
 
 
 
