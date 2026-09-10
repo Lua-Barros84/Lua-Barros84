@@ -1,16 +1,19 @@
-
-<!-- Banner flutuante - mar azul -->
+<!-- Banner animado - Lua Barros -->
 <p align="center">
   <i>𓆉࿐ 𖦹ׂ🌊༊·˚ ༘ ˚·༊🌊ׂ𖦹 ࿐𓆉</i>
 </p>
 
 <p align="center">
-  <img src="banner.gif" width="100%" alt="Lua Barros">
+  <a href="https://github.com/Lua-barros84">
+    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=44&weight=bold&duration=2500&pause=800&color=FFFFFF&background=1E90FF&center=true&vCenter=true&width=600&height=100&lines=Lua+Barros;Estudante+de+Python" alt="Lua Barros" />
+  </a>
 </p>
 
 <p align="center">
   <i>𓆉࿐ 𖦹ׂ🌊༊·˚ ༘ ˚·༊🌊ׂ𖦹 ࿐𓆉</i>
 </p>
+
+
 
 </div>
 
